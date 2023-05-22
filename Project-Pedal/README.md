@@ -22,7 +22,7 @@
 
 ## Внутреннее устройство
 
-![](back.jpg)
+![](/home/mark/Study/8/fab/Project-Pedal/back.jpg)
 
 1. Тумблер для вывода звука в стерео-систему
 2. Тумблер для обработки нажатия педали для вывода в "Ардуино"
@@ -62,13 +62,13 @@
 
 ## Внутреннее устройство
 
-![](inside.jpg)
-![](inside2.jpg)
+![](/home/mark/Study/8/fab/Project-Pedal/inside.jpg)
+![](/home/mark/Study/8/fab/Project-Pedal/inside2.jpg)
 
 ## Фотографии стадий разработки
 
-![](old4.jpg)
-![](old3.jpg)
-![](old2.jpg)
-![](old1.jpg)
+![](/home/mark/Study/8/fab/Project-Pedal/old4.jpg)
+![](/home/mark/Study/8/fab/Project-Pedal/old3.jpg)
+![](/home/mark/Study/8/fab/Project-Pedal/old2.jpg)
+![](/home/mark/Study/8/fab/Project-Pedal/old1.jpg)
 
